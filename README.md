@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### **🔹 Run the Application**
 Start the application using:
 ```sh
-python main.py
+python NetworkCopyWriter.py
 ```
 
 ---
